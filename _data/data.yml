@@ -23,23 +23,19 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Full professional proficiency
 
       - idiom: Dutch
-        level: Professional
-
+        level: Limited working proficiency
+      
+      - idiom: Greek
+        level: Limited working proficiency
    
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am an entrepreneur who wants to develop further by using the combination of my social (Psychology) and technical (Computer Science) skills. I apply my academic background in Artificial Intelligence (Radboud University) to the next client. I am a multidimensional developer with experience in various application areas including Business Intelligence, Data Science and associated system development. As a person I am creative, flexible, patient with a high stress resistance. Furthermore, I quickly pick up new technology and situations and am ambitious in achieving concrete results for the project. 
 
 education:
     - degree: MSc in Artificial Intelligence
@@ -82,36 +78,21 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    - role: Software Developer
+      time: 2018 - Present
+      company: Ordina
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2018 - 
-      company: 
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+    - role: Data Scientist / Researcher
+      time: October 2017 - October 2018 
+      company: Clothes2.me
+    
+    - role: Computer Engineer
+      time: February 2010 - August 2017 
+      company: Turkish Atomic Energy Authority
+    
+    - role: Developer
+      time: December 2008 - November 2009
+      company: Turkish Air Force
    
 projects:
     title: Projects
@@ -130,7 +111,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java
+      - name: Java EE
         level: 90%
-
+      - name: Python
+        level: 75%
+      - name: C
+        level: 90%
+        
   
