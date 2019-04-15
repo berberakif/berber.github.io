@@ -94,18 +94,18 @@ experiences:
       time: December 2008 - November 2009
       company: Turkish Air Force
    
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: A
-        link: "#hook"
-        tagline: "aaaa"
+#    projects:
+#    title: Projects
+#    intro: >
+ #     You can list your side projects or open source libraries in this
+  #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
+    #assignments:
+     # - title: A
+      #  link: "#hook"
+       # tagline: "aaaa"
 
 skills:
     title: Skills &amp; Proficiency
